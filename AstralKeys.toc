@@ -41,3 +41,5 @@ Frame Functions.lua
 Frame.xml
 MinimapButton.lua
 Options.lua
+
+AutoInsertingKeystone.lua

@@ -117,6 +117,10 @@ local function LoadDefaultSettings(addon)
 	e:AddDefaultSettings('general', 'expanded_tooltip', {
 		isEnabled = true,
 	})
+	
+	e:AddDefaultSettings('general', 'auto_inserting_keystone', {
+		isEnabled = true,
+	})
 
 	--Frame settings, collapsed, saved sorting, etc
 	e:AddDefaultSettings('frame', 'orientation', 1)

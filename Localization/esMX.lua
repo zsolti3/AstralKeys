@@ -43,3 +43,4 @@ L['FILTER_TEXT_CHARACTER'] = 'Filter by character name'
 -- Options
 L['!KEYS_DESC'] = 'Respond to !keys command in the following chat channels'
 L['EXPANDED_TOOLTIP'] = 'Show affix description in the tooltip'
+L['AUTO_INSERTING_KEYSTONE'] = 'Auto-inserting keystone'
